@@ -1,0 +1,23 @@
+body{
+    font-size:32px;
+}
+
+.background{
+background-image: url(./Home.jpg);
+background-size: cover; 
+background-position: center;
+color: white
+;
+width: 100%;
+height: 100vh;
+
+}
+
+h1 {
+    color: brown;
+    background-color: aqua;
+}
+
+/* Font-size:16px;
+text-align: center;
+text-weight: bold; */
